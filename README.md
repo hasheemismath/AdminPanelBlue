@@ -1,10 +1,10 @@
 # 🤘 Light Blue React Template
 
-Free and open-source admin dashboard template built with React and Bootstrap 4. Developed with ❤️ by [Flatlogic](https://flatlogic.com/). If you love our project please star ⭐️ our repo!
+Free and open-source admin dashboard template built with React and Bootstrap 4. Developed with ❤️. If you love our project please star ⭐️ our repo!
 
 **Development at risk! Our developer wants to eat and accepted a job offer from McDonalds! Buy a [full version of Light Blue React](https://flatlogic.com/templates/light-blue-react) to help us hire him again!** *
 
-[View Demo](https://hasheem.me/AdminPanelBlue/#/app/main/dashboard/) | [Download](https://github.com/hasheemismath/AdminPanelBlue.git) 
+[View Demo](https://hasheem.me/AdminPanelBlue/#/app/main/dashboard) | [Download](https://github.com/hasheemismath/AdminPanelBlue.git) 
 
 [![image](https://user-images.githubusercontent.com/43149862/78150582-270b4380-7440-11ea-826a-64e99b77d06d.png)](https://flatlogic.github.io/light-blue-react-template/)
 
